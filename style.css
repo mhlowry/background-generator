@@ -23,5 +23,11 @@ h3 {
     text-align: center;
     text-transform: none;
     letter-spacing: 0.01em;
+}
 
+button {
+    font: 900 1em 'Raleway', sans-serif;
+    border-radius: 10%;
+    padding: .5em;
+    background-color: green;
 }
